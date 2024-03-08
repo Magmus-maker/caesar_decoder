@@ -28,7 +28,7 @@ Clone this repository to your local machine.
 
 Ensure Python is installed on your system.
 
-Run the decoder script. Also you can check decoder_ru.py and decoder_en.py files
+Run the decoder.py script. Also you can check decoder_ru.py and decoder_en.py files
 
 Follow the prompts to select the language, input the encrypted text, and set the threshold (if desired).
 
