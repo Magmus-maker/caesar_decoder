@@ -28,7 +28,7 @@ This project is a Python-based tool for decrypting Caesar cipher-encrypted text.
 
 2. Ensure Python is installed on your system.
 
-3. Run the `decoder.py` script. Also, you can check `decoder_ru.py` and `decoder_en.py` files.
+3. Run the `decoder.py` script. Also you can check `decoder_ru.py` and `decoder_en.py` files.
 
 4. Follow the prompts to select the language, input the encrypted text, and set the threshold (if desired).
 
